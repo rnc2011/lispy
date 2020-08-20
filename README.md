@@ -1,5 +1,7 @@
 # lispy
 
+[![Project Status: Concept – Minimal or no implementation has been done yet, or the repository is only intended to be a limited example, demo, or proof-of-concept.](https://www.repostatus.org/badges/latest/concept.svg)](https://www.repostatus.org/#concept)
+
 lispy is a reimagining of Lisp implemented in Python with a focus on
 readability. It is based on Peter Norvig's elegant [(How to Write a (Lisp)
 Interpreter (in Python))](https://norvig.com/lispy.html).
